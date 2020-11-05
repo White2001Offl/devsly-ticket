@@ -1,0 +1,1 @@
+{"prefix":"$","token":"your-bot-token","supportRoles":"<id1>,<id2>,<id3>...","category":"<CategoryID>","count":1,"mongodb":"your-mongodb-uri","dbName":"'Your-DB-Name","address":"btc-addy"}
